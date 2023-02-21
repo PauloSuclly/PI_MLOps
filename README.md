@@ -101,7 +101,7 @@ Here is an image of the interface.
 
 ![ML Interface Image](./_src/ML_Interface.PNG)
 
-The way to use it is easy and is summarized in 3 steps:
+The way to use it´s too easy and is summarized in 3 steps:
 
 1. Introduce your User Id (Numeric Format).
 2. Introduce the Movie Id (Text Format).
