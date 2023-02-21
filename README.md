@@ -93,15 +93,26 @@ API made with Fast Api [Click Here To Access To The API Page](https://deta.space
 
 <img src="./_src/ML.png" alt="Fast API Image" width="250" height="150">
 
+### A Recommendation Movie Model was trained using SVD from scikit-surprise library. The trained model was included into an interface, where you will be able to try it.
+
+#### [Click Here To Access To The Graphic Interface](https://huggingface.co/spaces/paulox30/PI_MLOps)
+
+Here is an image of the interface.
+
+![ML Interface Image](./_src/ML_Interface.png)
+
+The way to use it is easy and is summarized in 3 steps:
+
+1. Introduce your User Id (Numeric Format).
+2. Introduce the Movie Id (Text Format).
+3. Click on the button "Evaluate if the movie is for you" and enjoy.
+
+
+
+### **Final Notes**
+
+Thank you for trying this project. 
+All feedback will be very welcome, thank you very much.
 <br>
-
-### A Recommendation Movie Model was trained using SVD from scikit-surprise library.
-
-### The trained model was included into an interface, where you will be able to try it.
-
-[Click Here To Access](https://huggingface.co/spaces/paulox30/PI_1_ML)
-
-
-:purple_circle: **Notas finales:** :purple_circle:<br>
-:innocent: Muchas gracias por testear mi api! <br> 
-Todo el feedback es bien recibido. :coffee:
+Contact Info:
+  - Email: paulo.suclly@pucp.edu.pe
