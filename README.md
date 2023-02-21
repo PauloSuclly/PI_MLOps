@@ -99,7 +99,7 @@ API made with Fast Api [Click Here To Access To The API Page](https://deta.space
 
 Here is an image of the interface.
 
-![ML Interface Image](./_src/ML_Interface.png)
+![ML Interface Image](./_src/ML_Interface.PNG)
 
 The way to use it is easy and is summarized in 3 steps:
 
